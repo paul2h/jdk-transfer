@@ -1,0 +1,3 @@
+使用範例:
+上行
+scp -P 2222 -i /d/scripts/wmyaoyao.pm ./face_feature_syscom_20200810.sql carl@drd-wiki.wmyaoyao.pw:~/
